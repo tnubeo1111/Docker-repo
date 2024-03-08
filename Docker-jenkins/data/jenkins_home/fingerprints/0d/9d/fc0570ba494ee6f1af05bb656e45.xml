@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2024-03-02 08:55:20.490 UTC</timestamp>
+  <md5sum>0d9dfc0570ba494ee6f1af05bb656e45</md5sum>
+  <fileName>Credential id=private-key name=root</fileName>
+  <usages>
+    <entry>
+      <string>test-jobs</string>
+      <ranges>3-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
